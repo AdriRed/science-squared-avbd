@@ -1,4 +1,4 @@
-# Science Squared (Science of science)
+# Science$^2$ (Science of science)
 
 *In this project we aim to give some answers about science progress, collaboration and funding.*
 
