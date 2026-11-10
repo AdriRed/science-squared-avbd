@@ -1,6 +1,6 @@
-# Project title
+# Science Squared (Science of science)
 
-*One sentence: the question your project answers.*
+*In this project we aim to give some answers about science progress, collaboration and funding.*
 
 **Team:** Name Surname (@github-user) · Name Surname (@github-user) · …
 
