@@ -1,4 +1,4 @@
-# Science$^2$ (Science of science)
+# $\text{Science}^2$ (Science of science)
 
 *In this project we aim to give some answers about science progress, collaboration and funding.*
 
