@@ -2,7 +2,7 @@
 
 *In this project we aim to give some answers about science progress, collaboration and funding.*
 
-**Team:** Name Surname (@github-user) · Name Surname (@github-user) · …
+**Team:** Albert Fontbuté (@Albert-FO) --- Carlos Jover (@carl-jm) --- Alba Sentoll (@albasentoll) --- Adrià Rojo (@AdriRed)
 
 ## Question
 
