@@ -24,3 +24,5 @@ dependencies:
   - pip
   - pip:
       - sodapy>=2.2
+      - pyorcid>=1.2.2
+      - pyalex>=0.21
