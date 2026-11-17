@@ -10,7 +10,6 @@ __pycache__/
 .env
 
 # Data: keep raw downloads out of Git (document how to get them in the README)
-data/*
 data/raw/
 data/cache/
 
