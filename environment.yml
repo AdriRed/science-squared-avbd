@@ -1,3 +1,5 @@
+# Update conda env update -n ub-bigdata-viz -f environment.yml --prune
+
 name: ub-bigdata-viz
 channels:
   - conda-forge
