@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from matplotlib.cycler
+from cycler import cycler
 def configure_matplotlib():
     # Configuración estilo revtex4
     plt.style.use('default')  # Empezar desde cero
@@ -56,6 +56,6 @@ def configure_matplotlib():
         'text.latex.preamble': '\\usepackage{amsmath, amssymb}\n\\usepackage{siunitx}',
         'pgf.texsystem': 'xelatex'
     }
-    plt.rcparams['axes.prop_cycle'] = cycler(color=color_blind_palette)
+    rcparams['axes.prop_cycle'] = cycler(color=color_blind_palette)
 
     plt.rcParams.update(rcparams)
