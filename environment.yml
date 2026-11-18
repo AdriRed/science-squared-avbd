@@ -1,4 +1,4 @@
-# Update conda env update -n ub-bigdata-viz -f environment.yml --prune
+# conda env update -n ub-bigdata-viz -f environment.yml --prune
 
 name: ub-bigdata-viz
 channels:
@@ -23,6 +23,7 @@ dependencies:
   - requests>=2.32
   - python-dotenv>=1.0
   - tqdm
+  - cycler
   - pip
   - pip:
       - sodapy>=2.2
