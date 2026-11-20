@@ -61,7 +61,7 @@ Run notebooks from the `notebooks/` directory, since they currently use relative
 1. `notebooks/adri_01_load_data.ipynb`  
    Downloads and cleans Catalan publication records, creating DOI and ORCID inputs.
 
-2. `notebooks/adri_02.1_enrich_papers_data.ipynb`  
+2. `notebooks/adri_02.1_enrich_papers_data.ipynb`  !! This file doesn't fully download all OpenAlex datasets !!
    Enriches publications with OpenAlex work metadata, fields, topics, APCs, funders, citations, and publishers.
 
 3. `notebooks/adri_02.2_enrich_authors_data.ipynb`  
