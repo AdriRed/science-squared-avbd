@@ -78,14 +78,7 @@ Run notebooks from the `notebooks/` directory, since they currently use relative
 
 7. `notebooks/adri_03_plots.ipynb` and `notebooks/adri_03.2_plots.ipynb`  
    Analyse APCs, open access, research fields, and publishers.
-
-## Figures
-
-| File | Description |
-|---|---|
-| `plots/adri/apc_stacked_by_year.pdf` | Cumulative APC expenditure by publisher group and year |
-| `plots/adri/apc_heatmap_domain_publisher.pdf` | APC patterns across research domains and publishers |
-
+   
 ## Credentials
 
 API credentials must be stored in a local `.env` file and must never be committed:
