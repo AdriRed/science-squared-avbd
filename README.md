@@ -1,49 +1,104 @@
-# $\text{Science}^2$ (Science of science)
 
-*In this project we aim to give some answers about science progress, collaboration and funding.*
+# Science² — Science of Science
 
-**Team:** Albert Fontbuté (@Albert-FO) --- Carlos Jover (@carl-jm) --- Alba Sentoll (@albasentoll) --- Adrià Rojo (@AdriRed)
+Analysis of the evolution, collaboration, funding, open-access status, and publication costs of research produced in Catalonia.
 
-## Question
+## Research questions
 
-What you want to find out and why it matters (3–5 sentences).
+This project investigates:
 
-## Data
+- How has Catalan scientific output changed over time?
+- How are publications distributed across research fields and institutions?
+- Do author productivity patterns follow power-law behaviour?
+- How have open-access publishing and article processing charges evolved?
+- How are publications connected to funders, publishers, and researcher employment histories?
 
-| Dataset | Source (URL) | Licence | Retrieved | What one row is |
-|---|---|---|---|---|
-| | | | | |
+## Team
 
-Raw data are downloaded by `notebooks/01_load_data.ipynb` (or documented here if they cannot be).
-Large files are not committed.
+Albert Fontbuté · Alba Sentoll · Carlos Jové · Adrià Rojo
 
-## How to run
+## Data sources
 
-```console
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
-uv sync            # or: conda env create -f environment.yml
-uv run jupyter lab
+| Source | Use |
+|---|---|
+| [Open Data Portal of Catalonia](https://analisi.transparenciacatalunya.cat/) | Publication records, dates, institutions, DOIs, and ORCID identifiers |
+| [OpenAlex](https://openalex.org/) | Work metadata, research fields, publishers, open-access status, APCs, funders, and references |
+| [ORCID](https://orcid.org/) | Public researcher employment histories |
+
+The main Catalan publication dataset contains approximately 1.75 million records from 1949–2026. Data licences and retrieval dates should be documented here before publication.
+
+## Repository structure
+
+```text
+data/
+  external/       Downloaded and enriched datasets
+  processed/      Derived datasets, including yearly partitions
+notebooks/
+  *_load_data.ipynb
+  *_enrich_*.ipynb
+  *_plots.ipynb
+plots/
+  adri/           Exported figures
+environment.yml   Conda environment
+CHECKLIST.md      Reproducibility checklist
 ```
 
-Run the notebooks in order (*Kernel → Restart & Run All*):
+## Installation
 
-1. `notebooks/01_load_data.ipynb` — download and cache the data
-2. `notebooks/02_clean.ipynb` — cleaning and joins
-3. `notebooks/03_figures.ipynb` — the figures of the article (saved to `plots/`)
+```bash
+git clone https://github.com/AdriRed/science-squared-avbd.git
+cd science-squared-avbd
 
-## Figures
+conda env create -f environment.yml
+conda activate ub-bigdata-viz
+jupyter lab
+```
 
-| Figure | File | Message (one sentence) |
-|---|---|---|
-| 1 | `plots/fig1.pdf` | |
+Run notebooks from the `notebooks/` directory, since they currently use relative paths such as `../data`.
 
-## Use of AI tools
+## Analysis workflow
 
-- Which tools you used, for what (e.g. *drafting the pagination loop in `src/download.py`*).
-- What you checked (row counts, units, CRS, every line in `src/`).
-- What is entirely yours (question, analysis choices, text).
+1. `notebooks/adri_01_load_data.ipynb`  
+   Downloads and cleans Catalan publication records, creating DOI and ORCID inputs.
 
-## Licence
+2. `notebooks/adri_02.1_enrich_papers_data.ipynb`  
+   Enriches publications with OpenAlex work metadata, fields, topics, APCs, funders, citations, and publishers.
 
-Code: see `LICENSE`. Data: see the licences in the table above.
+3. `notebooks/adri_02.2_enrich_authors_data.ipynb`  
+   Retrieves public ORCID employment histories with resumable checkpoints.
+
+4. `notebooks/alba_02_plots.ipynb`  
+   Creates yearly publication datasets and publication-trend figures.
+
+5. `notebooks/albert_01_power_laws.ipynb`  
+   Examines author productivity distributions.
+
+6. `notebooks/albert_02_power_laws.ipynb`  
+   Fits productivity distributions by research domain.
+
+7. `notebooks/adri_03_plots.ipynb` and `notebooks/adri_03.2_plots.ipynb`  
+   Analyse APCs, open access, research fields, and publishers.
+   
+## Credentials
+
+API credentials must be stored in a local `.env` file and must never be committed:
+
+```env
+SOCRATA_APP_TOKEN=
+SOCRATA_USER_ID=
+SOCRATA_USER_PASSWD=
+OPENALEX_EMAIL=
+OPENALEX_API_KEY=
+ORCID_USER_ID=
+ORCID_USER_PASSWD=
+```
+
+See `.env.example` for the expected variables.
+
+## Reproducibility notes
+
+- The OpenAlex and ORCID crawlers support retries and checkpoints.
+- Existing enrichment files are append-only and are not automatically refreshed.
+- Delete the relevant Parquet files when a complete rebuild is required.
+- Missing APC values represent unknown, unavailable, or non-applicable values; they should not automatically be interpreted as zero.
+- Results depend on the retrieval date and on changes to the external APIs.
