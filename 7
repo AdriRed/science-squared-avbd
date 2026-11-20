@@ -1,0 +1,19 @@
+Merge branch 'main' of https://github.com/AdriRed/science-squared-avbd
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+:wq
+# the commit.1:wq
+:wq
+
+
+:wq
+output_dir = "../plots/alba"
+os.makedirs(output_dir, exist_ok=True)
+
+# Desem el gràfic en format PNG i alta resolució (dpi=300)
+plt.savefig(f"{output_dir}/publications_by_domain_stacked.png", dpi=300, bbox_inches='tight')
+
+:wq
+[4;246;1159t
