@@ -58,13 +58,16 @@ Run notebooks from the `notebooks/` directory, since they currently use relative
 
 ## Analysis workflow
 
-1. `notebooks/adri_01_load_data.ipynb`  
+1. `notebooks/01_load_data.ipynb`  
    Downloads and cleans Catalan publication records, creating DOI and ORCID inputs.
 
-2. `notebooks/adri_02.1_enrich_papers_data.ipynb`  
+2. `notebooks/02.1_enrich_papers_data.ipynb`  
+
+   > **!! This file doesn't fully download all OpenAlex datasets !!**
+
    Enriches publications with OpenAlex work metadata, fields, topics, APCs, funders, citations, and publishers.
 
-3. `notebooks/adri_02.2_enrich_authors_data.ipynb`  
+3. `notebooks/02.2_enrich_authors_data.ipynb`  
    Retrieves public ORCID employment histories with resumable checkpoints.
 
 4. `notebooks/alba_02_plots.ipynb`  
@@ -76,7 +79,7 @@ Run notebooks from the `notebooks/` directory, since they currently use relative
 6. `notebooks/albert_02_power_laws.ipynb`  
    Fits productivity distributions by research domain.
 
-7. `notebooks/adri_03_plots.ipynb` and `notebooks/adri_03.2_plots.ipynb`  
+7. `notebooks/adri_03_processing.ipynb` and `notebooks/adri_04_plots.ipynb`  
    Analyse APCs, open access, research fields, and publishers.
    
 ## Credentials
