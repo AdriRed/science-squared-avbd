@@ -1,25 +1,1089 @@
-Domain,Publisher,apc_total_usd
-Health Sciences,Elsevier BV,107295821.0
-Health Sciences,Multidisciplinary Digital Publishing Institute,12817180.0
-Health Sciences,Other,65764548.0
-Health Sciences,Oxford University Press,21315473.0
-Health Sciences,Springer Science+Business Media,29630161.0
-Health Sciences,Wiley,42133994.0
-Life Sciences,Elsevier BV,58804807.0
-Life Sciences,Multidisciplinary Digital Publishing Institute,7977572.0
-Life Sciences,Other,57163789.0
-Life Sciences,Oxford University Press,12840973.0
-Life Sciences,Springer Science+Business Media,17425219.0
-Life Sciences,Wiley,29362996.0
-Physical Sciences,Elsevier BV,136979672.0
-Physical Sciences,Multidisciplinary Digital Publishing Institute,14365577.0
-Physical Sciences,Other,108354594.0
-Physical Sciences,Oxford University Press,8265299.0
-Physical Sciences,Springer Science+Business Media,32293996.0
-Physical Sciences,Wiley,47212644.0
-Social Sciences,Elsevier BV,29335805.0
-Social Sciences,Multidisciplinary Digital Publishing Institute,4061912.0
-Social Sciences,Other,27718368.0
-Social Sciences,Oxford University Press,4383897.0
-Social Sciences,Springer Science+Business Media,12099336.0
-Social Sciences,Wiley,12803845.0
+Domain,Publisher,year,apc_total_usd
+Health Sciences,Oxford University Press,1949,3750.0
+Health Sciences,Oxford University Press,1952,4920.0
+Physical Sciences,Wiley,1952,0.0
+Life Sciences,Elsevier BV,1953,3800.0
+Health Sciences,Springer Science+Business Media,1954,4390.0
+Health Sciences,Other,1954,3000.0
+Health Sciences,Elsevier BV,1956,3800.0
+Physical Sciences,Wiley,1957,3660.0
+Health Sciences,Oxford University Press,1959,4920.0
+Physical Sciences,Elsevier BV,1961,3680.0
+Life Sciences,Other,1961,0.0
+Health Sciences,Elsevier BV,1962,3800.0
+Physical Sciences,Elsevier BV,1962,3680.0
+Health Sciences,Other,1962,0.0
+Physical Sciences,Elsevier BV,1964,3680.0
+Physical Sciences,Other,1966,3750.0
+Physical Sciences,Elsevier BV,1967,3610.0
+Physical Sciences,Other,1969,18000.0
+Health Sciences,Other,1970,2190.0
+Social Sciences,Other,1970,2950.0
+Health Sciences,Elsevier BV,1970,3500.0
+Social Sciences,Elsevier BV,1970,2080.0
+Physical Sciences,Elsevier BV,1970,26300.0
+Physical Sciences,Wiley,1970,3710.0
+Life Sciences,Other,1970,3295.0
+Physical Sciences,Springer Science+Business Media,1970,5980.0
+Physical Sciences,Other,1970,13185.0
+Physical Sciences,Other,1972,16145.0
+Physical Sciences,Springer Science+Business Media,1972,0.0
+Physical Sciences,Elsevier BV,1972,0.0
+Life Sciences,Other,1973,0.0
+Social Sciences,Oxford University Press,1973,5359.0
+Physical Sciences,Elsevier BV,1973,8540.0
+Life Sciences,Elsevier BV,1973,3990.0
+Social Sciences,Elsevier BV,1973,0.0
+Social Sciences,Wiley,1973,3350.0
+Social Sciences,Other,1973,0.0
+Physical Sciences,Other,1973,5290.0
+Social Sciences,Elsevier BV,1974,8900.0
+Physical Sciences,Springer Science+Business Media,1974,3090.0
+Health Sciences,Other,1974,0.0
+Life Sciences,Wiley,1974,0.0
+Health Sciences,Elsevier BV,1974,7890.0
+Physical Sciences,Other,1974,14290.0
+Physical Sciences,Elsevier BV,1974,17440.0
+Physical Sciences,Springer Science+Business Media,1975,3790.0
+Life Sciences,Wiley,1975,3350.0
+Physical Sciences,Elsevier BV,1975,14510.0
+Social Sciences,Elsevier BV,1975,11550.0
+Physical Sciences,Wiley,1975,3720.0
+Life Sciences,Elsevier BV,1975,3590.0
+Life Sciences,Other,1975,0.0
+Physical Sciences,Springer Science+Business Media,1976,2590.0
+Health Sciences,Elsevier BV,1976,3640.0
+Physical Sciences,Other,1976,5290.0
+Health Sciences,Other,1976,0.0
+Physical Sciences,Elsevier BV,1976,16960.0
+Physical Sciences,Wiley,1976,4430.0
+Health Sciences,Wiley,1976,5190.0
+Life Sciences,Other,1976,0.0
+Social Sciences,Elsevier BV,1976,2840.0
+Social Sciences,Other,1976,3650.0
+Life Sciences,Wiley,1977,4480.0
+Physical Sciences,Springer Science+Business Media,1977,0.0
+Social Sciences,Elsevier BV,1977,11930.0
+Social Sciences,Other,1977,3650.0
+Health Sciences,Springer Science+Business Media,1977,3090.0
+Physical Sciences,Wiley,1977,12400.0
+Life Sciences,Elsevier BV,1977,4350.0
+Physical Sciences,Elsevier BV,1977,18930.0
+Physical Sciences,Other,1977,0.0
+Life Sciences,Other,1977,4500.0
+Health Sciences,Other,1977,0.0
+Life Sciences,Elsevier BV,1978,6280.0
+Physical Sciences,Elsevier BV,1978,11080.0
+Life Sciences,Springer Science+Business Media,1978,3690.0
+Life Sciences,Other,1978,0.0
+Health Sciences,Other,1978,4150.0
+Social Sciences,Other,1978,0.0
+Life Sciences,Wiley,1978,0.0
+Social Sciences,Elsevier BV,1978,5680.0
+Health Sciences,Elsevier BV,1978,9980.0
+Social Sciences,Oxford University Press,1978,6530.0
+Physical Sciences,Other,1978,7090.0
+Physical Sciences,Wiley,1978,4650.0
+Physical Sciences,Springer Science+Business Media,1979,10770.0
+Life Sciences,Other,1979,0.0
+Life Sciences,Wiley,1979,5330.0
+Physical Sciences,Other,1979,15281.0
+Life Sciences,Elsevier BV,1979,10080.0
+Health Sciences,Wiley,1979,4790.0
+Health Sciences,Elsevier BV,1979,10240.0
+Health Sciences,Other,1979,0.0
+Social Sciences,Elsevier BV,1979,5870.0
+Social Sciences,Other,1979,11600.0
+Health Sciences,Springer Science+Business Media,1979,8980.0
+Health Sciences,Oxford University Press,1979,4320.0
+Physical Sciences,Elsevier BV,1979,13250.0
+Physical Sciences,Wiley,1979,11210.0
+Physical Sciences,Oxford University Press,1980,4241.0
+Life Sciences,Springer Science+Business Media,1980,22950.0
+Physical Sciences,Elsevier BV,1980,19320.0
+Physical Sciences,Other,1980,16872.0
+Life Sciences,Wiley,1980,0.0
+Social Sciences,Other,1980,0.0
+Social Sciences,Springer Science+Business Media,1980,3190.0
+Physical Sciences,Wiley,1980,3930.0
+Health Sciences,Other,1980,0.0
+Health Sciences,Springer Science+Business Media,1980,8790.0
+Life Sciences,Elsevier BV,1980,7500.0
+Social Sciences,Elsevier BV,1980,12120.0
+Health Sciences,Wiley,1980,4480.0
+Physical Sciences,Springer Science+Business Media,1980,12570.0
+Life Sciences,Other,1980,16980.0
+Health Sciences,Other,1981,0.0
+Health Sciences,Oxford University Press,1981,4889.0
+Physical Sciences,Springer Science+Business Media,1981,10470.0
+Physical Sciences,Wiley,1981,8030.0
+Social Sciences,Other,1981,0.0
+Life Sciences,Wiley,1981,16130.0
+Health Sciences,Springer Science+Business Media,1981,7880.0
+Life Sciences,Other,1981,4290.0
+Physical Sciences,Other,1981,20037.0
+Health Sciences,Elsevier BV,1981,4180.0
+Life Sciences,Oxford University Press,1981,11589.0
+Physical Sciences,Elsevier BV,1981,44050.0
+Life Sciences,Elsevier BV,1981,10080.0
+Life Sciences,Springer Science+Business Media,1981,14560.0
+Social Sciences,Elsevier BV,1981,3030.0
+Health Sciences,Wiley,1981,5400.0
+Social Sciences,Oxford University Press,1982,6530.0
+Health Sciences,Springer Science+Business Media,1982,3690.0
+Physical Sciences,Springer Science+Business Media,1982,7180.0
+Life Sciences,Wiley,1982,0.0
+Social Sciences,Other,1982,3650.0
+Life Sciences,Oxford University Press,1982,3297.0
+Life Sciences,Elsevier BV,1982,35000.0
+Physical Sciences,Wiley,1982,20830.0
+Physical Sciences,Other,1982,66037.0
+Physical Sciences,Oxford University Press,1982,6828.0
+Health Sciences,Oxford University Press,1982,4763.0
+Life Sciences,Springer Science+Business Media,1982,37510.0
+Health Sciences,Wiley,1982,4790.0
+Life Sciences,Other,1982,9136.0
+Health Sciences,Elsevier BV,1982,4010.0
+Physical Sciences,Elsevier BV,1982,57790.0
+Health Sciences,Other,1982,3400.0
+Physical Sciences,Elsevier BV,1983,73890.0
+Life Sciences,Wiley,1983,34000.0
+Health Sciences,Elsevier BV,1983,14200.0
+Health Sciences,Springer Science+Business Media,1983,18150.0
+Life Sciences,Other,1983,15792.0
+Social Sciences,Wiley,1983,3570.0
+Physical Sciences,Wiley,1983,32940.0
+Health Sciences,Other,1983,4400.0
+Health Sciences,Wiley,1983,6970.0
+Social Sciences,Elsevier BV,1983,3030.0
+Life Sciences,Elsevier BV,1983,14880.0
+Life Sciences,Oxford University Press,1983,3297.0
+Physical Sciences,Oxford University Press,1983,7588.0
+Life Sciences,Springer Science+Business Media,1983,24140.0
+Physical Sciences,Springer Science+Business Media,1983,29330.0
+Physical Sciences,Other,1983,64814.0
+Social Sciences,Other,1983,13395.0
+Health Sciences,Springer Science+Business Media,1984,20150.0
+Life Sciences,Other,1984,21270.0
+Physical Sciences,Wiley,1984,33590.0
+Life Sciences,Elsevier BV,1984,42840.0
+Health Sciences,Other,1984,16090.0
+Health Sciences,Wiley,1984,18440.0
+Physical Sciences,Other,1984,60950.0
+Social Sciences,Other,1984,14312.0
+Health Sciences,Elsevier BV,1984,23210.0
+Physical Sciences,Springer Science+Business Media,1984,46480.0
+Life Sciences,Wiley,1984,14380.0
+Social Sciences,Elsevier BV,1984,19130.0
+Physical Sciences,Elsevier BV,1984,135380.0
+Physical Sciences,Oxford University Press,1984,1003.0
+Life Sciences,Springer Science+Business Media,1984,26430.0
+Health Sciences,Wiley,1985,18440.0
+Life Sciences,Elsevier BV,1985,50770.0
+Life Sciences,Oxford University Press,1985,6857.0
+Life Sciences,Other,1985,42750.0
+Life Sciences,Springer Science+Business Media,1985,26130.0
+Life Sciences,Wiley,1985,26920.0
+Health Sciences,Oxford University Press,1985,4920.0
+Social Sciences,Oxford University Press,1985,6530.0
+Physical Sciences,Other,1985,59824.0
+Social Sciences,Elsevier BV,1985,13740.0
+Social Sciences,Other,1985,6362.0
+Social Sciences,Wiley,1985,4050.0
+Health Sciences,Other,1985,0.0
+Social Sciences,Springer Science+Business Media,1985,3550.0
+Physical Sciences,Springer Science+Business Media,1985,52540.0
+Health Sciences,Springer Science+Business Media,1985,10470.0
+Physical Sciences,Wiley,1985,61070.0
+Health Sciences,Elsevier BV,1985,15160.0
+Physical Sciences,Elsevier BV,1985,118830.0
+Physical Sciences,Elsevier BV,1986,183400.0
+Social Sciences,Other,1986,3650.0
+Life Sciences,Oxford University Press,1986,10764.0
+Physical Sciences,Springer Science+Business Media,1986,39390.0
+Physical Sciences,Oxford University Press,1986,4341.0
+Physical Sciences,Wiley,1986,84610.0
+Life Sciences,Elsevier BV,1986,78960.0
+Social Sciences,Elsevier BV,1986,3800.0
+Physical Sciences,Other,1986,96635.0
+Health Sciences,Springer Science+Business Media,1986,29230.0
+Health Sciences,Oxford University Press,1986,14872.0
+Health Sciences,Elsevier BV,1986,55980.0
+Health Sciences,Other,1986,19840.0
+Social Sciences,Wiley,1986,7120.0
+Life Sciences,Wiley,1986,16840.0
+Health Sciences,Wiley,1986,18720.0
+Life Sciences,Other,1986,42890.0
+Life Sciences,Springer Science+Business Media,1986,62850.0
+Health Sciences,Other,1987,24750.0
+Health Sciences,Springer Science+Business Media,1987,42300.0
+Life Sciences,Other,1987,37170.0
+Health Sciences,Wiley,1987,44750.0
+Social Sciences,Elsevier BV,1987,25724.0
+Physical Sciences,Springer Science+Business Media,1987,65030.0
+Life Sciences,Elsevier BV,1987,107060.0
+Physical Sciences,Oxford University Press,1987,3794.0
+Life Sciences,Wiley,1987,50920.0
+Physical Sciences,Elsevier BV,1987,241970.0
+Health Sciences,Elsevier BV,1987,82817.0
+Social Sciences,Wiley,1987,12330.0
+Health Sciences,Oxford University Press,1987,17640.0
+Physical Sciences,Other,1987,81000.0
+Social Sciences,Other,1987,16300.0
+Life Sciences,Oxford University Press,1987,20034.0
+Life Sciences,Springer Science+Business Media,1987,52770.0
+Physical Sciences,Wiley,1987,70030.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,1988,2484.0
+Social Sciences,Other,1988,10790.0
+Social Sciences,Elsevier BV,1988,21658.0
+Health Sciences,Elsevier BV,1988,87534.0
+Life Sciences,Elsevier BV,1988,127518.0
+Physical Sciences,Wiley,1988,90340.0
+Health Sciences,Springer Science+Business Media,1988,30820.0
+Health Sciences,Oxford University Press,1988,43261.0
+Health Sciences,Other,1988,14600.0
+Physical Sciences,Springer Science+Business Media,1988,50091.0
+Life Sciences,Other,1988,35710.0
+Life Sciences,Wiley,1988,54420.0
+Physical Sciences,Elsevier BV,1988,224254.0
+Physical Sciences,Oxford University Press,1988,3718.0
+Life Sciences,Oxford University Press,1988,29652.0
+Social Sciences,Wiley,1988,3920.0
+Health Sciences,Wiley,1988,59450.0
+Physical Sciences,Other,1988,194836.0
+Life Sciences,Springer Science+Business Media,1988,76700.0
+Social Sciences,Wiley,1989,5910.0
+Physical Sciences,Elsevier BV,1989,400320.0
+Social Sciences,Springer Science+Business Media,1989,9730.0
+Social Sciences,Oxford University Press,1989,0.0
+Physical Sciences,Wiley,1989,101940.0
+Social Sciences,Other,1989,13595.0
+Life Sciences,Oxford University Press,1989,34169.0
+Life Sciences,Elsevier BV,1989,190920.0
+Physical Sciences,Oxford University Press,1989,13296.0
+Social Sciences,Elsevier BV,1989,46480.0
+Life Sciences,Other,1989,28390.0
+Physical Sciences,Springer Science+Business Media,1989,64500.0
+Life Sciences,Springer Science+Business Media,1989,71230.0
+Physical Sciences,Other,1989,212040.0
+Life Sciences,Wiley,1989,54100.0
+Health Sciences,Other,1989,11936.0
+Health Sciences,Oxford University Press,1989,8873.0
+Health Sciences,Elsevier BV,1989,97624.0
+Health Sciences,Springer Science+Business Media,1989,38600.0
+Health Sciences,Wiley,1989,58180.0
+Health Sciences,Springer Science+Business Media,1990,36910.0
+Social Sciences,Wiley,1990,10550.0
+Physical Sciences,Springer Science+Business Media,1990,108400.0
+Life Sciences,Elsevier BV,1990,174130.0
+Social Sciences,Springer Science+Business Media,1990,15350.0
+Life Sciences,Other,1990,29740.0
+Physical Sciences,Wiley,1990,91840.0
+Social Sciences,Other,1990,14500.0
+Social Sciences,Elsevier BV,1990,27370.0
+Physical Sciences,Elsevier BV,1990,384364.0
+Life Sciences,Wiley,1990,103560.0
+Health Sciences,Wiley,1990,71240.0
+Life Sciences,Springer Science+Business Media,1990,99040.0
+Life Sciences,Oxford University Press,1990,55643.0
+Health Sciences,Oxford University Press,1990,39884.0
+Health Sciences,Elsevier BV,1990,129912.0
+Physical Sciences,Oxford University Press,1990,38876.0
+Physical Sciences,Other,1990,342252.0
+Health Sciences,Other,1990,32310.0
+Health Sciences,Other,1991,43772.0
+Physical Sciences,Wiley,1991,73215.0
+Life Sciences,Oxford University Press,1991,45393.0
+Health Sciences,Oxford University Press,1991,61064.0
+Social Sciences,Springer Science+Business Media,1991,3090.0
+Physical Sciences,Springer Science+Business Media,1991,117180.0
+Health Sciences,Springer Science+Business Media,1991,39310.0
+Physical Sciences,Other,1991,367635.0
+Life Sciences,Elsevier BV,1991,211560.0
+Social Sciences,Wiley,1991,22720.0
+Physical Sciences,Oxford University Press,1991,47792.0
+Life Sciences,Other,1991,97621.0
+Social Sciences,Other,1991,10762.0
+Social Sciences,Elsevier BV,1991,25968.0
+Life Sciences,Wiley,1991,105820.0
+Physical Sciences,Elsevier BV,1991,391434.0
+Life Sciences,Springer Science+Business Media,1991,116100.0
+Health Sciences,Elsevier BV,1991,165082.0
+Health Sciences,Wiley,1991,49460.0
+Health Sciences,Wiley,1992,84440.0
+Health Sciences,Other,1992,93432.0
+Social Sciences,Springer Science+Business Media,1992,9870.0
+Life Sciences,Other,1992,75542.0
+Physical Sciences,Other,1992,327770.0
+Social Sciences,Other,1992,47234.0
+Physical Sciences,Elsevier BV,1992,582090.0
+Health Sciences,Oxford University Press,1992,49976.0
+Social Sciences,Wiley,1992,22090.0
+Life Sciences,Springer Science+Business Media,1992,120580.0
+Health Sciences,Springer Science+Business Media,1992,57170.0
+Social Sciences,Elsevier BV,1992,55160.0
+Life Sciences,Wiley,1992,120420.0
+Physical Sciences,Springer Science+Business Media,1992,150340.0
+Health Sciences,Elsevier BV,1992,159536.0
+Social Sciences,Oxford University Press,1992,12082.0
+Life Sciences,Oxford University Press,1992,60916.0
+Physical Sciences,Wiley,1992,116080.0
+Physical Sciences,Oxford University Press,1992,43930.0
+Life Sciences,Elsevier BV,1992,280100.0
+Life Sciences,Other,1993,109390.0
+Social Sciences,Oxford University Press,1993,11601.0
+Social Sciences,Wiley,1993,46740.0
+Health Sciences,Wiley,1993,114720.0
+Physical Sciences,Other,1993,374653.0
+Health Sciences,Springer Science+Business Media,1993,109450.0
+Health Sciences,Oxford University Press,1993,86816.0
+Life Sciences,Wiley,1993,155430.0
+Life Sciences,Oxford University Press,1993,54644.0
+Physical Sciences,Elsevier BV,1993,769330.0
+Health Sciences,Elsevier BV,1993,225546.0
+Life Sciences,Springer Science+Business Media,1993,122590.0
+Physical Sciences,Oxford University Press,1993,18874.0
+Social Sciences,Other,1993,31190.0
+Life Sciences,Elsevier BV,1993,335240.0
+Social Sciences,Elsevier BV,1993,78818.0
+Health Sciences,Other,1993,46600.0
+Physical Sciences,Wiley,1993,121454.0
+Social Sciences,Springer Science+Business Media,1993,12460.0
+Physical Sciences,Springer Science+Business Media,1993,130220.0
+Social Sciences,Other,1994,19740.0
+Physical Sciences,Springer Science+Business Media,1994,197250.0
+Life Sciences,Elsevier BV,1994,303390.0
+Life Sciences,Oxford University Press,1994,67244.0
+Physical Sciences,Oxford University Press,1994,37413.0
+Physical Sciences,Elsevier BV,1994,681044.0
+Social Sciences,Springer Science+Business Media,1994,28510.0
+Life Sciences,Other,1994,130550.0
+Health Sciences,Other,1994,99394.0
+Health Sciences,Oxford University Press,1994,73034.0
+Physical Sciences,Wiley,1994,182080.0
+Physical Sciences,Other,1994,455994.0
+Health Sciences,Elsevier BV,1994,217568.0
+Social Sciences,Oxford University Press,1994,15959.0
+Social Sciences,Wiley,1994,19100.0
+Life Sciences,Wiley,1994,161009.0
+Social Sciences,Elsevier BV,1994,50180.0
+Health Sciences,Wiley,1994,196960.0
+Life Sciences,Springer Science+Business Media,1994,138450.0
+Health Sciences,Springer Science+Business Media,1994,73591.0
+Physical Sciences,Wiley,1995,250820.0
+Social Sciences,Oxford University Press,1995,10182.0
+Physical Sciences,Springer Science+Business Media,1995,158760.0
+Health Sciences,Springer Science+Business Media,1995,59950.0
+Health Sciences,Oxford University Press,1995,76134.0
+Social Sciences,Springer Science+Business Media,1995,34350.0
+Health Sciences,Elsevier BV,1995,335670.0
+Social Sciences,Elsevier BV,1995,89422.0
+Physical Sciences,Elsevier BV,1995,772740.0
+Life Sciences,Wiley,1995,280175.0
+Life Sciences,Elsevier BV,1995,391710.0
+Social Sciences,Wiley,1995,21990.0
+Life Sciences,Springer Science+Business Media,1995,178950.0
+Physical Sciences,Oxford University Press,1995,63259.0
+Life Sciences,Oxford University Press,1995,79418.0
+Life Sciences,Other,1995,140255.0
+Physical Sciences,Other,1995,552090.0
+Health Sciences,Other,1995,85212.0
+Health Sciences,Wiley,1995,229690.0
+Social Sciences,Other,1995,41957.0
+Health Sciences,Wiley,1996,193709.0
+Life Sciences,Oxford University Press,1996,64970.0
+Social Sciences,Elsevier BV,1996,80844.0
+Life Sciences,Wiley,1996,326309.0
+Physical Sciences,Elsevier BV,1996,1033454.0
+Physical Sciences,Other,1996,642497.0
+Social Sciences,Wiley,1996,37960.0
+Life Sciences,Elsevier BV,1996,503760.0
+Health Sciences,Other,1996,85572.0
+Health Sciences,Elsevier BV,1996,276926.0
+Physical Sciences,Wiley,1996,227120.0
+Life Sciences,Other,1996,226219.0
+Life Sciences,Springer Science+Business Media,1996,184650.0
+Social Sciences,Springer Science+Business Media,1996,26920.0
+Health Sciences,Oxford University Press,1996,97943.0
+Physical Sciences,Springer Science+Business Media,1996,119320.0
+Social Sciences,Other,1996,34378.0
+Social Sciences,Oxford University Press,1996,4823.0
+Physical Sciences,Oxford University Press,1996,46625.0
+Health Sciences,Springer Science+Business Media,1996,108960.0
+Life Sciences,Wiley,1997,362388.0
+Health Sciences,Other,1997,144316.0
+Life Sciences,Elsevier BV,1997,600104.0
+Social Sciences,Wiley,1997,41130.0
+Social Sciences,Springer Science+Business Media,1997,22330.0
+Physical Sciences,Springer Science+Business Media,1997,193840.0
+Physical Sciences,Elsevier BV,1997,1230248.0
+Health Sciences,Oxford University Press,1997,102450.0
+Social Sciences,Elsevier BV,1997,115082.0
+Physical Sciences,Oxford University Press,1997,48686.0
+Life Sciences,Oxford University Press,1997,110756.0
+Life Sciences,Other,1997,228040.0
+Physical Sciences,Wiley,1997,285355.0
+Health Sciences,Elsevier BV,1997,485681.0
+Social Sciences,Oxford University Press,1997,23855.0
+Health Sciences,Wiley,1997,189730.0
+Physical Sciences,Other,1997,773286.0
+Life Sciences,Springer Science+Business Media,1997,220430.0
+Health Sciences,Springer Science+Business Media,1997,127661.0
+Social Sciences,Other,1997,46412.0
+Life Sciences,Springer Science+Business Media,1998,222140.0
+Physical Sciences,Oxford University Press,1998,70243.0
+Health Sciences,Springer Science+Business Media,1998,126190.0
+Health Sciences,Elsevier BV,1998,433226.0
+Social Sciences,Elsevier BV,1998,110654.0
+Health Sciences,Wiley,1998,215600.0
+Social Sciences,Springer Science+Business Media,1998,39180.0
+Life Sciences,Wiley,1998,430770.0
+Social Sciences,Oxford University Press,1998,18308.0
+Physical Sciences,Springer Science+Business Media,1998,266260.0
+Physical Sciences,Wiley,1998,342398.0
+Physical Sciences,Other,1998,810319.0
+Health Sciences,Other,1998,135775.0
+Life Sciences,Elsevier BV,1998,696010.0
+Life Sciences,Other,1998,216005.0
+Physical Sciences,Elsevier BV,1998,1179548.0
+Social Sciences,Other,1998,70982.0
+Life Sciences,Oxford University Press,1998,127947.0
+Health Sciences,Oxford University Press,1998,104270.0
+Social Sciences,Wiley,1998,48940.0
+Life Sciences,Springer Science+Business Media,1999,206070.0
+Social Sciences,Elsevier BV,1999,127697.0
+Health Sciences,Wiley,1999,230040.0
+Life Sciences,Wiley,1999,406800.0
+Physical Sciences,Springer Science+Business Media,1999,198240.0
+Health Sciences,Springer Science+Business Media,1999,106040.0
+Social Sciences,Other,1999,79785.0
+Physical Sciences,Other,1999,788261.0
+Social Sciences,Wiley,1999,79820.0
+Health Sciences,Oxford University Press,1999,146371.0
+Health Sciences,Other,1999,174770.0
+Physical Sciences,Wiley,1999,417685.0
+Social Sciences,Oxford University Press,1999,22602.0
+Life Sciences,Other,1999,293470.0
+Life Sciences,Elsevier BV,1999,674950.0
+Life Sciences,Oxford University Press,1999,113073.0
+Social Sciences,Springer Science+Business Media,1999,48550.0
+Physical Sciences,Oxford University Press,1999,71319.0
+Physical Sciences,Elsevier BV,1999,1527358.0
+Health Sciences,Elsevier BV,1999,536663.0
+Health Sciences,Other,2000,198646.0
+Health Sciences,Elsevier BV,2000,572177.0
+Social Sciences,Other,2000,135279.0
+Physical Sciences,Other,2000,831786.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2000,3499.0
+Health Sciences,Springer Science+Business Media,2000,156100.0
+Life Sciences,Wiley,2000,383320.0
+Physical Sciences,Wiley,2000,418388.0
+Physical Sciences,Oxford University Press,2000,87347.0
+Physical Sciences,Elsevier BV,2000,1509792.0
+Health Sciences,Oxford University Press,2000,129968.0
+Social Sciences,Elsevier BV,2000,152750.0
+Physical Sciences,Springer Science+Business Media,2000,211073.0
+Social Sciences,Springer Science+Business Media,2000,62420.0
+Health Sciences,Wiley,2000,277900.0
+Social Sciences,Wiley,2000,52190.0
+Life Sciences,Other,2000,360446.0
+Life Sciences,Elsevier BV,2000,691880.0
+Life Sciences,Springer Science+Business Media,2000,280300.0
+Social Sciences,Oxford University Press,2000,15238.0
+Life Sciences,Oxford University Press,2000,164153.0
+Life Sciences,Other,2001,360082.0
+Social Sciences,Springer Science+Business Media,2001,55890.0
+Physical Sciences,Oxford University Press,2001,53484.0
+Life Sciences,Springer Science+Business Media,2001,280850.0
+Health Sciences,Wiley,2001,247229.0
+Physical Sciences,Springer Science+Business Media,2001,298683.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2001,3499.0
+Physical Sciences,Elsevier BV,2001,1589754.0
+Life Sciences,Oxford University Press,2001,160603.0
+Health Sciences,Springer Science+Business Media,2001,156990.0
+Health Sciences,Other,2001,177788.0
+Physical Sciences,Other,2001,991365.0
+Social Sciences,Other,2001,88782.0
+Life Sciences,Elsevier BV,2001,661560.0
+Social Sciences,Elsevier BV,2001,211702.0
+Health Sciences,Elsevier BV,2001,647288.0
+Life Sciences,Wiley,2001,466249.0
+Health Sciences,Oxford University Press,2001,142526.0
+Physical Sciences,Wiley,2001,543459.0
+Social Sciences,Wiley,2001,62010.0
+Health Sciences,Wiley,2002,266410.0
+Life Sciences,Other,2002,495551.0
+Social Sciences,Wiley,2002,77390.0
+Social Sciences,Springer Science+Business Media,2002,88720.0
+Physical Sciences,Elsevier BV,2002,1467214.0
+Life Sciences,Oxford University Press,2002,180459.0
+Health Sciences,Other,2002,183692.0
+Physical Sciences,Oxford University Press,2002,91668.0
+Health Sciences,Elsevier BV,2002,770098.0
+Life Sciences,Elsevier BV,2002,923540.0
+Physical Sciences,Springer Science+Business Media,2002,465811.0
+Life Sciences,Wiley,2002,522584.0
+Life Sciences,Springer Science+Business Media,2002,262930.0
+Social Sciences,Oxford University Press,2002,29345.0
+Social Sciences,Elsevier BV,2002,220288.0
+Physical Sciences,Other,2002,1079283.0
+Health Sciences,Springer Science+Business Media,2002,174820.0
+Physical Sciences,Wiley,2002,613609.0
+Health Sciences,Oxford University Press,2002,133290.0
+Social Sciences,Other,2002,152290.0
+Life Sciences,Springer Science+Business Media,2003,324040.0
+Physical Sciences,Other,2003,1272286.0
+Health Sciences,Other,2003,259069.0
+Life Sciences,Oxford University Press,2003,218567.0
+Social Sciences,Other,2003,104475.0
+Physical Sciences,Oxford University Press,2003,49768.0
+Social Sciences,Elsevier BV,2003,267582.0
+Health Sciences,Springer Science+Business Media,2003,162671.0
+Life Sciences,Wiley,2003,569620.0
+Health Sciences,Elsevier BV,2003,725112.0
+Physical Sciences,Elsevier BV,2003,1729976.0
+Social Sciences,Oxford University Press,2003,57241.0
+Life Sciences,Other,2003,381787.0
+Health Sciences,Oxford University Press,2003,159667.0
+Physical Sciences,Wiley,2003,647949.0
+Social Sciences,Springer Science+Business Media,2003,56490.0
+Social Sciences,Wiley,2003,78750.0
+Physical Sciences,Springer Science+Business Media,2003,436920.0
+Life Sciences,Elsevier BV,2003,858940.0
+Health Sciences,Wiley,2003,368090.0
+Physical Sciences,Oxford University Press,2004,79420.0
+Life Sciences,Other,2004,544148.0
+Health Sciences,Oxford University Press,2004,237215.0
+Physical Sciences,Elsevier BV,2004,1977874.0
+Physical Sciences,Other,2004,1648625.0
+Life Sciences,Oxford University Press,2004,235468.0
+Health Sciences,Elsevier BV,2004,896046.0
+Social Sciences,Other,2004,191785.0
+Life Sciences,Elsevier BV,2004,1087030.0
+Life Sciences,Springer Science+Business Media,2004,311130.0
+Social Sciences,Oxford University Press,2004,84316.0
+Physical Sciences,Springer Science+Business Media,2004,496490.0
+Physical Sciences,Wiley,2004,764028.0
+Social Sciences,Wiley,2004,109250.0
+Health Sciences,Springer Science+Business Media,2004,181540.0
+Health Sciences,Other,2004,359641.0
+Social Sciences,Springer Science+Business Media,2004,120630.0
+Life Sciences,Wiley,2004,678829.0
+Social Sciences,Elsevier BV,2004,221618.0
+Health Sciences,Wiley,2004,480550.0
+Health Sciences,Other,2005,321416.0
+Health Sciences,Springer Science+Business Media,2005,241593.0
+Physical Sciences,Other,2005,1836242.0
+Health Sciences,Wiley,2005,582510.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2005,3258.0
+Physical Sciences,Springer Science+Business Media,2005,567341.0
+Life Sciences,Springer Science+Business Media,2005,307490.0
+Physical Sciences,Elsevier BV,2005,2253870.0
+Social Sciences,Elsevier BV,2005,360382.0
+Social Sciences,Oxford University Press,2005,66337.0
+Social Sciences,Other,2005,220027.0
+Social Sciences,Wiley,2005,116460.0
+Physical Sciences,Wiley,2005,816020.0
+Life Sciences,Elsevier BV,2005,1060486.0
+Social Sciences,Springer Science+Business Media,2005,111460.0
+Life Sciences,Oxford University Press,2005,331745.0
+Physical Sciences,Oxford University Press,2005,63574.0
+Life Sciences,Other,2005,534491.0
+Life Sciences,Wiley,2005,632526.0
+Health Sciences,Oxford University Press,2005,324704.0
+Health Sciences,Elsevier BV,2005,1348286.0
+Health Sciences,Springer Science+Business Media,2006,316000.0
+Life Sciences,Springer Science+Business Media,2006,405413.0
+Life Sciences,Other,2006,565691.0
+Physical Sciences,Wiley,2006,957735.0
+Social Sciences,Oxford University Press,2006,69293.0
+Social Sciences,Other,2006,220454.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2006,9411.0
+Physical Sciences,Other,2006,2031540.0
+Health Sciences,Elsevier BV,2006,1645238.0
+Social Sciences,Springer Science+Business Media,2006,166910.0
+Physical Sciences,Oxford University Press,2006,90805.0
+Health Sciences,Oxford University Press,2006,319634.0
+Social Sciences,Elsevier BV,2006,389404.0
+Life Sciences,Oxford University Press,2006,383352.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2006,3499.0
+Social Sciences,Wiley,2006,190959.0
+Physical Sciences,Elsevier BV,2006,2845110.0
+Health Sciences,Other,2006,550682.0
+Life Sciences,Elsevier BV,2006,1466720.0
+Life Sciences,Wiley,2006,703816.0
+Health Sciences,Wiley,2006,520270.0
+Physical Sciences,Springer Science+Business Media,2006,669143.0
+Physical Sciences,Springer Science+Business Media,2007,732091.0
+Social Sciences,Springer Science+Business Media,2007,232970.0
+Life Sciences,Elsevier BV,2007,1575569.0
+Physical Sciences,Other,2007,2431111.0
+Life Sciences,Other,2007,713237.0
+Physical Sciences,Wiley,2007,1198340.0
+Social Sciences,Wiley,2007,196640.0
+Social Sciences,Oxford University Press,2007,57507.0
+Physical Sciences,Oxford University Press,2007,141290.0
+Health Sciences,Other,2007,538779.0
+Health Sciences,Elsevier BV,2007,1634295.0
+Health Sciences,Wiley,2007,643690.0
+Social Sciences,Elsevier BV,2007,487453.0
+Social Sciences,Other,2007,269919.0
+Life Sciences,Springer Science+Business Media,2007,423667.0
+Life Sciences,Oxford University Press,2007,438046.0
+Physical Sciences,Elsevier BV,2007,3278983.0
+Health Sciences,Springer Science+Business Media,2007,376291.0
+Health Sciences,Oxford University Press,2007,382999.0
+Life Sciences,Wiley,2007,673828.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2007,9532.0
+Life Sciences,Other,2008,883603.0
+Physical Sciences,Oxford University Press,2008,114976.0
+Health Sciences,Oxford University Press,2008,522231.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2008,1207.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2008,15806.0
+Life Sciences,Springer Science+Business Media,2008,508140.0
+Health Sciences,Springer Science+Business Media,2008,486427.0
+Social Sciences,Elsevier BV,2008,641028.0
+Health Sciences,Other,2008,762372.0
+Social Sciences,Wiley,2008,231550.0
+Physical Sciences,Wiley,2008,1349430.0
+Social Sciences,Other,2008,370076.0
+Life Sciences,Wiley,2008,882428.0
+Social Sciences,Oxford University Press,2008,79187.0
+Health Sciences,Elsevier BV,2008,2125765.0
+Physical Sciences,Elsevier BV,2008,3514117.0
+Health Sciences,Wiley,2008,907640.0
+Physical Sciences,Other,2008,2666336.0
+Physical Sciences,Springer Science+Business Media,2008,785331.0
+Social Sciences,Springer Science+Business Media,2008,251001.0
+Life Sciences,Oxford University Press,2008,408375.0
+Life Sciences,Elsevier BV,2008,1902540.0
+Health Sciences,Wiley,2009,915890.0
+Physical Sciences,Oxford University Press,2009,150870.0
+Health Sciences,Elsevier BV,2009,2865316.0
+Social Sciences,Elsevier BV,2009,601671.0
+Physical Sciences,Other,2009,3210714.0
+Health Sciences,Oxford University Press,2009,679834.0
+Life Sciences,Oxford University Press,2009,544034.0
+Life Sciences,Wiley,2009,922732.0
+Health Sciences,Springer Science+Business Media,2009,601912.0
+Physical Sciences,Elsevier BV,2009,4101870.0
+Health Sciences,Other,2009,1062424.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2009,48382.0
+Social Sciences,Other,2009,420526.0
+Social Sciences,Oxford University Press,2009,68886.0
+Life Sciences,Other,2009,1350383.0
+Physical Sciences,Springer Science+Business Media,2009,925821.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2009,3258.0
+Social Sciences,Springer Science+Business Media,2009,255670.0
+Social Sciences,Wiley,2009,219150.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2009,16047.0
+Life Sciences,Springer Science+Business Media,2009,451150.0
+Life Sciences,Elsevier BV,2009,1926620.0
+Physical Sciences,Wiley,2009,1408409.0
+Physical Sciences,Elsevier BV,2010,4512612.0
+Physical Sciences,Springer Science+Business Media,2010,1249520.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2010,11692.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2010,5792.0
+Life Sciences,Oxford University Press,2010,462579.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2010,28717.0
+Physical Sciences,Oxford University Press,2010,186982.0
+Life Sciences,Wiley,2010,1133059.0
+Social Sciences,Springer Science+Business Media,2010,264050.0
+Social Sciences,Elsevier BV,2010,814626.0
+Health Sciences,Oxford University Press,2010,512278.0
+Life Sciences,Elsevier BV,2010,2221623.0
+Health Sciences,Elsevier BV,2010,2882357.0
+Physical Sciences,Wiley,2010,1603890.0
+Social Sciences,Oxford University Press,2010,118203.0
+Health Sciences,Springer Science+Business Media,2010,689261.0
+Life Sciences,Springer Science+Business Media,2010,584551.0
+Social Sciences,Other,2010,522301.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2010,66603.0
+Life Sciences,Other,2010,1491808.0
+Health Sciences,Wiley,2010,974660.0
+Physical Sciences,Other,2010,3629905.0
+Social Sciences,Wiley,2010,310330.0
+Health Sciences,Other,2010,1204311.0
+Health Sciences,Oxford University Press,2011,639618.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2011,5067.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2011,103160.0
+Social Sciences,Elsevier BV,2011,937761.0
+Health Sciences,Other,2011,1559560.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2011,38851.0
+Life Sciences,Other,2011,1637152.0
+Life Sciences,Oxford University Press,2011,476319.0
+Social Sciences,Springer Science+Business Media,2011,261840.0
+Life Sciences,Wiley,2011,998481.0
+Life Sciences,Springer Science+Business Media,2011,721133.0
+Physical Sciences,Wiley,2011,1732927.0
+Physical Sciences,Other,2011,3821092.0
+Social Sciences,Other,2011,646967.0
+Health Sciences,Wiley,2011,1320244.0
+Health Sciences,Elsevier BV,2011,3642610.0
+Physical Sciences,Elsevier BV,2011,4815792.0
+Social Sciences,Wiley,2011,285740.0
+Health Sciences,Springer Science+Business Media,2011,856538.0
+Physical Sciences,Springer Science+Business Media,2011,1392697.0
+Social Sciences,Oxford University Press,2011,135967.0
+Life Sciences,Elsevier BV,2011,2125670.0
+Physical Sciences,Oxford University Press,2011,217254.0
+Health Sciences,Oxford University Press,2012,680480.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2012,9894.0
+Health Sciences,Other,2012,1926150.0
+Life Sciences,Springer Science+Business Media,2012,828140.0
+Physical Sciences,Elsevier BV,2012,5297797.0
+Life Sciences,Oxford University Press,2012,683366.0
+Social Sciences,Oxford University Press,2012,76541.0
+Life Sciences,Other,2012,2201809.0
+Health Sciences,Elsevier BV,2012,3880650.0
+Health Sciences,Springer Science+Business Media,2012,910232.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2012,44658.0
+Life Sciences,Elsevier BV,2012,2455983.0
+Life Sciences,Wiley,2012,1008911.0
+Social Sciences,Springer Science+Business Media,2012,352990.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2012,116675.0
+Physical Sciences,Wiley,2012,1873153.0
+Physical Sciences,Oxford University Press,2012,254628.0
+Social Sciences,Wiley,2012,429140.0
+Social Sciences,Elsevier BV,2012,1082042.0
+Health Sciences,Wiley,2012,1449287.0
+Physical Sciences,Springer Science+Business Media,2012,1440811.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2012,7761.0
+Social Sciences,Other,2012,701524.0
+Physical Sciences,Other,2012,4284741.0
+Physical Sciences,Springer Science+Business Media,2013,1648935.0
+Life Sciences,Springer Science+Business Media,2013,767812.0
+Social Sciences,Springer Science+Business Media,2013,442305.0
+Social Sciences,Oxford University Press,2013,169913.0
+Life Sciences,Wiley,2013,1238475.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2013,11100.0
+Life Sciences,Other,2013,2349900.0
+Health Sciences,Elsevier BV,2013,4445360.0
+Physical Sciences,Elsevier BV,2013,6117777.0
+Health Sciences,Other,2013,2034769.0
+Health Sciences,Springer Science+Business Media,2013,1006279.0
+Social Sciences,Other,2013,1013808.0
+Health Sciences,Wiley,2013,1657240.0
+Physical Sciences,Other,2013,4496858.0
+Life Sciences,Elsevier BV,2013,2620307.0
+Physical Sciences,Oxford University Press,2013,339101.0
+Physical Sciences,Wiley,2013,2052204.0
+Social Sciences,Elsevier BV,2013,1196197.0
+Social Sciences,Wiley,2013,436260.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2013,117038.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2013,53088.0
+Life Sciences,Oxford University Press,2013,535801.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2013,30042.0
+Health Sciences,Oxford University Press,2013,743648.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2014,53503.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2014,23159.0
+Life Sciences,Wiley,2014,1210430.0
+Health Sciences,Springer Science+Business Media,2014,1251943.0
+Physical Sciences,Wiley,2014,2116972.0
+Physical Sciences,Oxford University Press,2014,439374.0
+Health Sciences,Elsevier BV,2014,5061764.0
+Health Sciences,Other,2014,2867219.0
+Social Sciences,Springer Science+Business Media,2014,511060.0
+Social Sciences,Other,2014,1154907.0
+Health Sciences,Wiley,2014,1652331.0
+Physical Sciences,Other,2014,4530400.0
+Health Sciences,Oxford University Press,2014,954245.0
+Social Sciences,Elsevier BV,2014,1310510.0
+Physical Sciences,Elsevier BV,2014,6116845.0
+Social Sciences,Wiley,2014,442105.0
+Life Sciences,Other,2014,2537630.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2014,232866.0
+Life Sciences,Elsevier BV,2014,2359589.0
+Life Sciences,Oxford University Press,2014,683212.0
+Life Sciences,Springer Science+Business Media,2014,698644.0
+Social Sciences,Oxford University Press,2014,151705.0
+Physical Sciences,Springer Science+Business Media,2014,1627925.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2014,78668.0
+Life Sciences,Other,2015,2925674.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2015,263291.0
+Health Sciences,Wiley,2015,1905636.0
+Physical Sciences,Other,2015,4790020.0
+Social Sciences,Oxford University Press,2015,135877.0
+Social Sciences,Other,2015,1378923.0
+Health Sciences,Other,2015,3095346.0
+Life Sciences,Springer Science+Business Media,2015,854854.0
+Physical Sciences,Elsevier BV,2015,6771949.0
+Physical Sciences,Springer Science+Business Media,2015,1671745.0
+Health Sciences,Elsevier BV,2015,4959485.0
+Life Sciences,Wiley,2015,1262126.0
+Social Sciences,Springer Science+Business Media,2015,531560.0
+Life Sciences,Oxford University Press,2015,612279.0
+Life Sciences,Elsevier BV,2015,2822148.0
+Social Sciences,Elsevier BV,2015,1401139.0
+Health Sciences,Springer Science+Business Media,2015,1152147.0
+Social Sciences,Wiley,2015,613470.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2015,27387.0
+Physical Sciences,Wiley,2015,2034410.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2015,62499.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2015,134051.0
+Physical Sciences,Oxford University Press,2015,440979.0
+Health Sciences,Oxford University Press,2015,897950.0
+Physical Sciences,Wiley,2016,2337019.0
+Health Sciences,Wiley,2016,1943108.0
+Social Sciences,Elsevier BV,2016,1736223.0
+Health Sciences,Elsevier BV,2016,5876058.0
+Life Sciences,Elsevier BV,2016,2802738.0
+Life Sciences,Springer Science+Business Media,2016,825175.0
+Physical Sciences,Elsevier BV,2016,7280996.0
+Physical Sciences,Other,2016,5199041.0
+Health Sciences,Springer Science+Business Media,2016,1447565.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2016,114866.0
+Life Sciences,Oxford University Press,2016,617905.0
+Health Sciences,Other,2016,3364369.0
+Life Sciences,Other,2016,3040198.0
+Life Sciences,Wiley,2016,1344863.0
+Physical Sciences,Springer Science+Business Media,2016,1692823.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2016,94835.0
+Social Sciences,Oxford University Press,2016,201470.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2016,420970.0
+Social Sciences,Springer Science+Business Media,2016,614485.0
+Physical Sciences,Oxford University Press,2016,441433.0
+Social Sciences,Wiley,2016,668400.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2016,46212.0
+Social Sciences,Other,2016,1319080.0
+Health Sciences,Oxford University Press,2016,964310.0
+Life Sciences,Springer Science+Business Media,2017,883546.0
+Physical Sciences,Elsevier BV,2017,6882269.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2017,166384.0
+Health Sciences,Other,2017,3892754.0
+Life Sciences,Other,2017,3665632.0
+Social Sciences,Oxford University Press,2017,150102.0
+Social Sciences,Wiley,2017,728485.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2017,629470.0
+Physical Sciences,Other,2017,5149649.0
+Health Sciences,Wiley,2017,2350437.0
+Physical Sciences,Oxford University Press,2017,478063.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2017,212840.0
+Physical Sciences,Wiley,2017,2477459.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2017,77461.0
+Social Sciences,Elsevier BV,2017,1697031.0
+Social Sciences,Springer Science+Business Media,2017,655190.0
+Life Sciences,Wiley,2017,1451045.0
+Physical Sciences,Springer Science+Business Media,2017,1673472.0
+Life Sciences,Elsevier BV,2017,2995129.0
+Social Sciences,Other,2017,1522318.0
+Health Sciences,Oxford University Press,2017,979689.0
+Health Sciences,Elsevier BV,2017,5716238.0
+Life Sciences,Oxford University Press,2017,594229.0
+Health Sciences,Springer Science+Business Media,2017,1682304.0
+Social Sciences,Oxford University Press,2018,205116.0
+Social Sciences,Other,2018,1555373.0
+Social Sciences,Elsevier BV,2018,1833476.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2018,166263.0
+Social Sciences,Wiley,2018,703320.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2018,1083388.0
+Social Sciences,Springer Science+Business Media,2018,681510.0
+Physical Sciences,Oxford University Press,2018,486446.0
+Physical Sciences,Other,2018,5594481.0
+Health Sciences,Other,2018,4216267.0
+Health Sciences,Elsevier BV,2018,6819482.0
+Physical Sciences,Elsevier BV,2018,7208473.0
+Health Sciences,Oxford University Press,2018,879624.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2018,323474.0
+Physical Sciences,Springer Science+Business Media,2018,1566443.0
+Life Sciences,Wiley,2018,1404598.0
+Life Sciences,Springer Science+Business Media,2018,874900.0
+Physical Sciences,Wiley,2018,2710909.0
+Health Sciences,Springer Science+Business Media,2018,1730129.0
+Health Sciences,Wiley,2018,2716882.0
+Life Sciences,Other,2018,3971578.0
+Life Sciences,Elsevier BV,2018,3056596.0
+Life Sciences,Oxford University Press,2018,495706.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2018,331568.0
+Life Sciences,Oxford University Press,2019,613264.0
+Social Sciences,Springer Science+Business Media,2019,745132.0
+Health Sciences,Wiley,2019,2174322.0
+Physical Sciences,Oxford University Press,2019,539062.0
+Physical Sciences,Other,2019,5386800.0
+Life Sciences,Elsevier BV,2019,2661461.0
+Health Sciences,Other,2019,3665455.0
+Physical Sciences,Elsevier BV,2019,5961164.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2019,362459.0
+Social Sciences,Oxford University Press,2019,258741.0
+Health Sciences,Oxford University Press,2019,1130903.0
+Social Sciences,Other,2019,1948486.0
+Life Sciences,Other,2019,3174918.0
+Life Sciences,Wiley,2019,1148048.0
+Health Sciences,Springer Science+Business Media,2019,1634467.0
+Life Sciences,Springer Science+Business Media,2019,790675.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2019,826845.0
+Physical Sciences,Springer Science+Business Media,2019,1377975.0
+Health Sciences,Elsevier BV,2019,5716788.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2019,201983.0
+Physical Sciences,Wiley,2019,2181385.0
+Social Sciences,Elsevier BV,2019,1399443.0
+Social Sciences,Wiley,2019,690150.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2019,553689.0
+Life Sciences,Oxford University Press,2020,509959.0
+Physical Sciences,Wiley,2020,2053410.0
+Health Sciences,Elsevier BV,2020,6391762.0
+Life Sciences,Springer Science+Business Media,2020,699162.0
+Health Sciences,Wiley,2020,2469665.0
+Life Sciences,Wiley,2020,1119322.0
+Life Sciences,Elsevier BV,2020,2453145.0
+Health Sciences,Other,2020,4377866.0
+Health Sciences,Oxford University Press,2020,1577971.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2020,505740.0
+Physical Sciences,Springer Science+Business Media,2020,1340590.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2020,1511903.0
+Social Sciences,Elsevier BV,2020,1556375.0
+Physical Sciences,Elsevier BV,2020,5908628.0
+Health Sciences,Springer Science+Business Media,2020,1875156.0
+Life Sciences,Other,2020,3494889.0
+Social Sciences,Oxford University Press,2020,336438.0
+Social Sciences,Other,2020,1905648.0
+Social Sciences,Springer Science+Business Media,2020,691665.0
+Physical Sciences,Oxford University Press,2020,459543.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2020,1277619.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2020,857108.0
+Physical Sciences,Other,2020,5734549.0
+Social Sciences,Wiley,2020,693620.0
+Health Sciences,Oxford University Press,2021,1698990.0
+Social Sciences,Other,2021,2153673.0
+Life Sciences,Wiley,2021,1279940.0
+Life Sciences,Elsevier BV,2021,2450076.0
+Physical Sciences,Wiley,2021,2337315.0
+Life Sciences,Oxford University Press,2021,508228.0
+Social Sciences,Elsevier BV,2021,1889412.0
+Health Sciences,Elsevier BV,2021,7115455.0
+Health Sciences,Springer Science+Business Media,2021,2131685.0
+Life Sciences,Other,2021,3650584.0
+Social Sciences,Oxford University Press,2021,373430.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2021,1394353.0
+Life Sciences,Springer Science+Business Media,2021,622565.0
+Physical Sciences,Springer Science+Business Media,2021,1479185.0
+Health Sciences,Wiley,2021,2905869.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2021,2113200.0
+Health Sciences,Other,2021,5389024.0
+Physical Sciences,Other,2021,5871344.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2021,2208583.0
+Social Sciences,Wiley,2021,852500.0
+Physical Sciences,Oxford University Press,2021,547329.0
+Physical Sciences,Elsevier BV,2021,6299235.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2021,782624.0
+Social Sciences,Springer Science+Business Media,2021,899938.0
+Life Sciences,Elsevier BV,2022,2309012.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2022,1242591.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2022,622655.0
+Social Sciences,Oxford University Press,2022,379325.0
+Social Sciences,Springer Science+Business Media,2022,923949.0
+Social Sciences,Wiley,2022,976733.0
+Physical Sciences,Wiley,2022,2377100.0
+Life Sciences,Other,2022,3739995.0
+Health Sciences,Elsevier BV,2022,6665919.0
+Health Sciences,Springer Science+Business Media,2022,2219071.0
+Physical Sciences,Other,2022,5981263.0
+Physical Sciences,Springer Science+Business Media,2022,1379840.0
+Health Sciences,Wiley,2022,2703897.0
+Physical Sciences,Oxford University Press,2022,594156.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2022,2180516.0
+Life Sciences,Wiley,2022,1311020.0
+Health Sciences,Other,2022,5584397.0
+Life Sciences,Springer Science+Business Media,2022,639250.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2022,1841357.0
+Social Sciences,Elsevier BV,2022,1811257.0
+Health Sciences,Oxford University Press,2022,1400190.0
+Social Sciences,Other,2022,2181065.0
+Life Sciences,Oxford University Press,2022,513381.0
+Physical Sciences,Elsevier BV,2022,6184265.0
+Physical Sciences,Springer Science+Business Media,2023,1435670.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2023,1889896.0
+Health Sciences,Elsevier BV,2023,6376506.0
+Health Sciences,Wiley,2023,2674391.0
+Physical Sciences,Oxford University Press,2023,496549.0
+Health Sciences,Oxford University Press,2023,1184917.0
+Life Sciences,Elsevier BV,2023,2543656.0
+Social Sciences,Wiley,2023,891185.0
+Life Sciences,Wiley,2023,1120670.0
+Social Sciences,Other,2023,2220644.0
+Social Sciences,Oxford University Press,2023,295223.0
+Life Sciences,Springer Science+Business Media,2023,616962.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2023,530091.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2023,1157606.0
+Physical Sciences,Wiley,2023,2230280.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2023,1708033.0
+Social Sciences,Springer Science+Business Media,2023,846560.0
+Health Sciences,Other,2023,5147079.0
+Life Sciences,Other,2023,3716898.0
+Social Sciences,Elsevier BV,2023,1663357.0
+Life Sciences,Oxford University Press,2023,518725.0
+Physical Sciences,Other,2023,5793938.0
+Physical Sciences,Elsevier BV,2023,6566350.0
+Health Sciences,Springer Science+Business Media,2023,2301957.0
+Social Sciences,Wiley,2024,1002833.0
+Social Sciences,Springer Science+Business Media,2024,872694.0
+Life Sciences,Wiley,2024,1361675.0
+Life Sciences,Oxford University Press,2024,553793.0
+Health Sciences,Oxford University Press,2024,1420577.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2024,1545298.0
+Life Sciences,Elsevier BV,2024,2478159.0
+Physical Sciences,Other,2024,5692001.0
+Life Sciences,Springer Science+Business Media,2024,649260.0
+Health Sciences,Other,2024,5186984.0
+Physical Sciences,Oxford University Press,2024,454427.0
+Health Sciences,Springer Science+Business Media,2024,2263781.0
+Physical Sciences,Springer Science+Business Media,2024,1712378.0
+Physical Sciences,Wiley,2024,2516494.0
+Physical Sciences,Elsevier BV,2024,7094450.0
+Health Sciences,Wiley,2024,2627692.0
+Social Sciences,Elsevier BV,2024,1879824.0
+Social Sciences,Oxford University Press,2024,351064.0
+Health Sciences,Elsevier BV,2024,6671673.0
+Life Sciences,Other,2024,3424627.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2024,458814.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2024,987228.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2024,1878975.0
+Social Sciences,Other,2024,2059722.0
+Life Sciences,Wiley,2025,1456480.0
+Social Sciences,Wiley,2025,1008225.0
+Life Sciences,Elsevier BV,2025,2617924.0
+Life Sciences,Other,2025,3270418.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2025,800766.0
+Life Sciences,Oxford University Press,2025,407074.0
+Health Sciences,Oxford University Press,2025,1343250.0
+Health Sciences,Springer Science+Business Media,2025,2074949.0
+Life Sciences,Springer Science+Business Media,2025,588230.0
+Social Sciences,Oxford University Press,2025,318648.0
+Health Sciences,Other,2025,5558860.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2025,1414938.0
+Social Sciences,Other,2025,2249282.0
+Health Sciences,Elsevier BV,2025,6661088.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2025,514875.0
+Social Sciences,Elsevier BV,2025,1908865.0
+Physical Sciences,Wiley,2025,2430568.0
+Physical Sciences,Elsevier BV,2025,6581933.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2025,1741286.0
+Physical Sciences,Oxford University Press,2025,314728.0
+Physical Sciences,Other,2025,6134896.0
+Social Sciences,Springer Science+Business Media,2025,887567.0
+Physical Sciences,Springer Science+Business Media,2025,1515652.0
+Health Sciences,Wiley,2025,2731174.0
+Health Sciences,Multidisciplinary Digital Publishing Institute,2026,310695.0
+Health Sciences,Springer Science+Business Media,2026,476581.0
+Health Sciences,Elsevier BV,2026,1789630.0
+Health Sciences,Oxford University Press,2026,319695.0
+Health Sciences,Other,2026,1234120.0
+Life Sciences,Springer Science+Business Media,2026,197290.0
+Life Sciences,Elsevier BV,2026,808134.0
+Social Sciences,Other,2026,510190.0
+Social Sciences,Multidisciplinary Digital Publishing Institute,2026,78788.0
+Social Sciences,Elsevier BV,2026,705632.0
+Physical Sciences,Wiley,2026,770645.0
+Physical Sciences,Springer Science+Business Media,2026,456020.0
+Physical Sciences,Oxford University Press,2026,120217.0
+Physical Sciences,Other,2026,1858205.0
+Social Sciences,Springer Science+Business Media,2026,257600.0
+Physical Sciences,Multidisciplinary Digital Publishing Institute,2026,277155.0
+Physical Sciences,Elsevier BV,2026,2918103.0
+Life Sciences,Wiley,2026,344370.0
+Social Sciences,Oxford University Press,2026,54423.0
+Life Sciences,Oxford University Press,2026,90688.0
+Life Sciences,Other,2026,871655.0
+Life Sciences,Multidisciplinary Digital Publishing Institute,2026,131397.0
+Health Sciences,Wiley,2026,841791.0
+Social Sciences,Wiley,2026,345710.0
