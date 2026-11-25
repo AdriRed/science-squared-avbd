@@ -1,10 +1,3 @@
-I reviewed the current notebooks and README. The README’s analysis sequence points to several **old notebook names**; the current sequence is numbered `01`–`09`. The notebooks cover Catalan publication data, OpenAlex enrichment, ORCID employment data, APC/open-access analysis, publication trends by domain, author productivity, and university collaborations.
-
-A few issues should be addressed before promising that the workflow runs end to end: the ORCID notebook has inconsistent data paths; notebook `06` has a saved `KeyboardInterrupt` and placeholder text; and notebook `05` uses existing Parquet inputs, so its dependencies and outputs should be documented. Also, ORCID IDs and linked employment histories can identify people, so avoid describing all project data as anonymous. The OpenAlex crawler has a separate guide at `docs/openalex-crawler.md`.
-
-Here’s a README draft aligned to the current files:
-
-```md
 # Science² — Science of Science
 
 An analysis of research publications associated with Catalonia. The project explores publication trends, research domains, author productivity, open access and article processing charges (APCs), and collaboration between universities.
