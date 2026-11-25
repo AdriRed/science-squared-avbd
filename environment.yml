@@ -24,6 +24,7 @@ dependencies:
   - python-dotenv>=1.0
   - tqdm
   - cycler
+  - holoviews>=1.23
   - pip
   - pip:
       - sodapy>=2.2
