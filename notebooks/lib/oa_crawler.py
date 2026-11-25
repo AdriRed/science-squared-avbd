@@ -398,8 +398,7 @@ def check_openalex_quota():
 
 
 # --- API pública ------------------------------------------------------------
-def run(data_dir=None, dois_path=None, dois_col="doi",
-        checkpoint_every=CHECKPOINT_EVERY):
+def run(data_dir=None, dois_path=None, dois_col="doi"):
     """Crawl unificado works + 4 tablas per-work.
 
     Reanuda por DOI: se omiten los DOIs presentes en works.parquet.
