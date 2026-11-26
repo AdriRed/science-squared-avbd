@@ -25,6 +25,7 @@ dependencies:
   - tqdm
   - cycler
   - holoviews>=1.23
+  - networkx>=3.7
   - pip
   - pip:
       - sodapy>=2.2
